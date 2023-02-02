@@ -78,7 +78,7 @@ db.employees.insert(
 
 Écrivez une requête pour trouver tous les documents où l'âge est supérieur à 33. 
 ### Commande :
-![Resultat](../Mongo/Img/Image2.png)
+![Resultat](./Img/Image2.png)
 
 Écrivez une requête pour trier les documents dans la collection "employees" par
 salaire décroissant.
