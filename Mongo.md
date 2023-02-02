@@ -74,7 +74,7 @@ db.employees.insert(
 
 Écrivez une requête MongoDB pour trouver tous les documents dans la collection "employees".  
 ### Commande :
-![Resultat](.Img/Image1.png)
+![Resultat](./Img/Image1.png)
 
 Écrivez une requête pour trouver tous les documents où l'âge est supérieur à 33. 
 ### Commande :
